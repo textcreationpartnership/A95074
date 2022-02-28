@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True manner of the Kings tryal at Westminster-Hall, by the high Court of Justice, from the twentieth day of January 1649, to the seven and twentieth of the same month. Also the true manner of his being put to death at White-hall, near the Banqueting House the 30 of January, with his speech made upon the scaffold before hee was beheaded. To the tune of, Aim not too high.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95074</idno>
+            <idno type="STC">Wing T2760A</idno>
+            <idno type="STC">ESTC R185581</idno>
+            <idno type="EEBO-CITATION">45578481</idno>
+            <idno type="OCLC">ocm 45578481</idno>
+            <idno type="VID">172393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True manner of the Kings tryal at Westminster-Hall, by the high Court of Justice, from the twentieth day of January 1649, to the seven and twentieth of the same month. Also the true manner of his being put to death at White-hall, near the Banqueting House the 30 of January, with his speech made upon the scaffold before hee was beheaded. To the tune of, Aim not too high.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.I. and entered according to order.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Illustrated with 5 cuts.</note>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:172393:1" rendition="simple:additions"/>
+            <head>The true manner of the Kings Tryal at Weſtminſter-Hall, by the high Court of Juſtice, from the twentieth day of
+January 1649, to the ſeven and twentieth of the ſame Month. Alſo the true manner of his being put to Death at White-hall, near
+the Banqueting Houſe the 30 of January, with his Speech made upon the Scaffold before hee was beheaded.</head>
+            <opener>To the Tune of, Aim not too High.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>KIng <hi>Charls</hi> was once a Prince of a great ſtate,</l>
+               <l>But yet he dyed a Death unfortunate,</l>
+               <l>Oh, he is gone, and now hath left us here,</l>
+               <l>And God doth know what courſes we ſhall ſtéer.</l>
+            </lg>
+            <lg>
+               <l>Now my ſad ſtory to you Ile relate,</l>
+               <l>At <hi>Weſtminſter</hi> was call'd a Court of State,</l>
+               <l>Where Serjeant <hi>Bradſhaw</hi> was Lord Preſident,</l>
+               <l>The Court being full, then for the King they ſent.</l>
+            </lg>
+            <lg>
+               <l>There to the Bar a Guard did him convey,</l>
+               <l>In <hi>Januaries</hi> month the twentieth day,</l>
+               <l>Whereas Soliciter <hi>Cook</hi> did read at large</l>
+               <l>The order and the manner of his Charge.</l>
+            </lg>
+            <div type="part">
+               <head>The Kings Charge.</head>
+               <lg>
+                  <l>
+                     <hi>Charls Stuart</hi> once admitted <hi>Englands</hi> King,</l>
+                  <l>Which did ſuch woes upon the Nation bring,</l>
+                  <l>In ſetting up thy Standard in the field.</l>
+                  <l>Which was the cauſe that ſo much blood was ſpill'd</l>
+               </lg>
+               <lg>
+                  <l>Whereas thou didſt raiſe Arms within the Land,</l>
+                  <l>Alſo againſt the Parliament did ſtand,</l>
+                  <l>The peoples Rights and Liberties inthrall,</l>
+                  <l>All theſe and more, thou didſt Tirannical.</l>
+               </lg>
+               <lg>
+                  <l>Therefore you guilty are of theſe ſad times,</l>
+                  <l>As Treaſon, Murther, and of ſuch like crimes,</l>
+                  <l>For which at Bar a Priſoner you are,</l>
+                  <l>And in this Court you ſhall have Tryal fair.</l>
+               </lg>
+               <lg>
+                  <l>Here is your Iury, for it muſt be ſo,</l>
+                  <l>You be heard your Charge, plead guilty, I or no.</l>
+                  <l>What is it thus (then anſwered the King)</l>
+                  <l>Was it for this you, did me hither bring?</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Kings Anſwer to the Charge.</head>
+               <lg>
+                  <l>As for your Charge a Ruſh I do not care,</l>
+                  <l>I do deſire thoſe things are right and ſquare,</l>
+                  <l>It was for my peoples fréedom I did ſtand</l>
+                  <l>The Liberty and Laws of all the Land.</l>
+               </lg>
+               <lg>
+                  <l>I do deſire to me you would unfold</l>
+                  <l>By whoſe Commiſſion you this Court do hold,</l>
+                  <l>
+                     <hi>To</hi> whom the Preſident did ſtraight reply,</l>
+                  <l>Sir, you ſhall know by whoſe Authority.</l>
+               </lg>
+               <lg>
+                  <l>This Courts prerogative whereon we ſtand,</l>
+                  <l>Ordained is by the Commons of the Land</l>
+                  <l>It is not for Priſoners to diſpute the ſame</l>
+                  <l>Anſwer to that for which you hither came.</l>
+               </lg>
+               <lg>
+                  <l>Then their Authority he quite deny'd,</l>
+                  <l>And ſaid by them he meant not to be try'd,</l>
+                  <l>At which the Court their Verdict then did paſs,</l>
+                  <l>(Not anſwering that he then guilty was)</l>
+               </lg>
+               <lg>
+                  <l>Then by the Clerk his Sentence there was read</l>
+                  <l>Saying, <hi>Charls Stuart,</hi> thou ſhalt loſe thy head,</l>
+                  <l>For Murther, Treaſon, and for Tyranny,</l>
+                  <l>And to the Land a publick enemy.</l>
+               </lg>
+               <lg>
+                  <l>Being condemned, one thing he did crave</l>
+                  <l>That Doctor <hi>Iuxſons</hi> preſence he might have,</l>
+                  <l>To preach and the Communion him to give,</l>
+                  <l>And ſee his two ſweet Babes whilſt he did live.</l>
+               </lg>
+               <lg>
+                  <l>The which was granted, all performed and done,</l>
+                  <l>And he did ſee his Daughter and his Son,</l>
+                  <l>(It would have burſt a ſtony heart to ſee</l>
+                  <l>The weeping joy that was between them three)</l>
+               </lg>
+               <lg>
+                  <l>He bleſt them both, and for them he did pray,</l>
+                  <l>Mourning at parting, then they go their way,</l>
+                  <l>Father from Children, 'twas a grief full ſore</l>
+                  <l>Each other in this world to ſee no more.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Tueſday</hi> the thirtieth of <hi>January</hi> laſt,</l>
+                  <l>He from Saint <hi>Jameſes</hi> unto <hi>White-hall</hi> paſt</l>
+                  <l>Having a Guard of flying colours ſpread</l>
+                  <l>And rattling Drums as to a battle lead,</l>
+               </lg>
+               <lg>
+                  <l>With cheerful countenance and courage bold</l>
+                  <l>He ſaid, march faſter, for the day is cold</l>
+                  <l>Then to the Scaffold was he ſtraight conveyed.</l>
+                  <l>The which with mourning cloath was overlaid.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Kings Speech upon the Scaffold.</head>
+               <lg>
+                  <l>Mounting the ſame (quoth he) Ile little ſay,</l>
+                  <l>For in this World I have not long to ſtay</l>
+                  <l>It is my duty firſt with God to clear</l>
+                  <l>My conſcience free, next to my Country dear.</l>
+               </lg>
+               <lg>
+                  <l>Vnto the Parliament I nere thought ill,</l>
+                  <l>Their Priviledges never ſought to ſpill,</l>
+                  <l>Ill Inſtruments on both ſides bred the ſtrife</l>
+                  <l>Who were the cauſe ſo many loſt their life.</l>
+               </lg>
+               <lg>
+                  <l>The greateſt enemies that ſought my death,</l>
+                  <l>I do forgive, before I loſe my breath</l>
+                  <l>I wiſh the Kingdoms peace, and Churches bliſs,</l>
+                  <l>For now religion ont of order is.</l>
+               </lg>
+               <lg>
+                  <l>Lawful Succeſſion I do hope ſhall be</l>
+                  <l>(Granted by Parliament) now after me,</l>
+                  <l>And for my conſcience and religion</l>
+                  <l>I dye a Proteſtant and a Chriſtian.</l>
+               </lg>
+               <lg>
+                  <l>To Doctor <hi>Iuxſon</hi> then his George he gave,</l>
+                  <l>Willing pr. <hi>Charls</hi> his Son the ſame might have</l>
+                  <l>His walking ſtaff unto himſelf did give</l>
+                  <l>(And for his ſake) to keep whilſt he did live.</l>
+               </lg>
+               <lg>
+                  <l>Likewiſe he gave the Duke of <hi>Richmond</hi> then</l>
+                  <l>One Watch, another to a Gentleman,</l>
+                  <l>With eies lift up to heaven he made a Prayer</l>
+                  <l>And then for Death did inſtantly prepare.</l>
+               </lg>
+               <lg>
+                  <l>(Saying, my earthly Crown I here muſt leave</l>
+                  <l>Hoping a heavenly Crown I ſhall receive)</l>
+                  <l>Then on the Block his Neck he there did lay</l>
+                  <l>And to the Heads-man then theſe words did ſay;</l>
+               </lg>
+               <lg>
+                  <l>VVhen as my hands and arms open ſtretch,</l>
+                  <l>Strike home, be ſure that tho<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> right blow fetch,</l>
+                  <l>I come, I come, Lord Ieſus the<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the cry'd,</l>
+                  <l>One blow his head and body di<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> divide.</l>
+               </lg>
+               <lg>
+                  <l>Thus like a Lamb his Death he there did take</l>
+                  <l>And preſently this World he did forſake,</l>
+                  <l>VVhoſe ſoul I truſt is with the Lord on high</l>
+                  <l>And thus I end this mournful Tragedy.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for R. I. And Entred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
